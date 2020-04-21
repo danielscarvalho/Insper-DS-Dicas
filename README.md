@@ -1,5 +1,7 @@
 # Insper
 ## PÓS-GRADUAÇÃO EM DATA SCIENCE E DECISÃO
+https://www.insper.edu.br/pos-graduacao/programas-avancados/programa-avancado-em-data-science-e-decisao/
+
 ### Computação para Ciências dos Dados¶
 
 #### Insper-DS-Dicas
