@@ -3,6 +3,8 @@
 
 https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/
 
+Daniel Carvalho - https://twitter.com/danielscarvalho
+
 ### Computação para Ciências dos Dados¶
 
 #### Insper-DS-Dicas
